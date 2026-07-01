@@ -12,9 +12,16 @@
         "Allowoffline": false
     },
     {
-        "device_id": "5b83018ee35fec5e",
+        "device_id": "5b83018ee35ec5e",
         "key": "pokhara123",
         "expirydate": "10-07-2026",
         "Allowoffline": true
-    }
+    },
+
+    {
+        "device_id": "5b83018ee35fec5e",
+        "key": "pokhara123",
+        "expirydate": "03-07-2026",
+        "Allowoffline": true
+    },
 ]
