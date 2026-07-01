@@ -11,10 +11,11 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
+
     {
         "device_id": "5b83018ee35fec5e",
-        "key": "bibek123",
-        "expirydate": "02-07-2026",
+        "key": "pokhara123",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    },
 ]
