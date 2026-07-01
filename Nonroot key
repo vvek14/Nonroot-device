@@ -16,7 +16,7 @@
         "key": "pokhara123",
         "expirydate": "10-07-2026",
         "Allowoffline": true
-    }
+    },
 
     {
         "device_id": "aaaas",
@@ -30,6 +30,6 @@
         "key": "rajkumar1",
         "expirydate": "03-07-2026",
         "Allowoffline": true
-    },
+    }
 
 ]
