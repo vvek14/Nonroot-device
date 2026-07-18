@@ -1,4 +1,4 @@
-[
+
     {
         "device_id": "device123",
         "key": "key12345",
@@ -10,33 +10,5 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "5b83018ee35ec5e",
-        "key": "pokhara123",
-        "expirydate": "10-07-2026",
-        "Allowoffline": true
-    },
-
-    {
-        "device_id": "488b2272a5dd4abf",
-        "key": "leon1",
-        "expirydate": "03-07-2026",
-        "Allowoffline": true
-    },
-
-    {
-        "device_id": "98675d1066274040",
-        "key": "rajkumar1",
-        "expirydate": "03-07-2026",
-        "Allowoffline": true
-    },
-
-    {
-        "device_id": "488b2272a5dd4abf",
-        "key": "vvekprabu",
-        "expirydate": "03-07-2026",
-        "Allowoffline": true
     }
-
 ]
