@@ -13,9 +13,9 @@
     },
     {
         "device_id": "b1db645b6feac6fc",
-        "key": "bibek1",
+        "key": "bibek123",
         "expirydate": "20-07-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
     
 ]
