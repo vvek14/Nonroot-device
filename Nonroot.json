@@ -40,6 +40,12 @@
         "key": "fatta123",
         "expirydate": "23-07-2026",
         "Allowoffline": true
+      } ,
+    {
+        "device_id": "63cb1f630d2e4c46",
+        "key": "soni123",
+        "expirydate": "20-07-2026",
+        "Allowoffline": true
       } 
     
 ]
