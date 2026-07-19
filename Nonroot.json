@@ -34,6 +34,12 @@
         "key": "roshan123",
         "expirydate": "21-07-2026",
         "Allowoffline": true
+      },
+       {
+        "device_id": "bf515f7798ecde2e",
+        "key": "fatta123",
+        "expirydate": "23-07-2026",
+        "Allowoffline": true
       } 
     
 ]
