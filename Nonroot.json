@@ -26,7 +26,7 @@
     {
         "device_id": "43e2957e074f254b",
         "key": "sanju123",
-        "expirydate": "29-07-2026",
+        "expirydate": "21-07-2026",
         "Allowoffline": true
       },
     {
@@ -58,6 +58,12 @@
         "key": "khem123",
         "expirydate": "23-07-2026",
         "Allowoffline": true
-      } 
+      },
+    {
+        "device_id": "43e2957e074f254b",
+        "key": "sanju123",
+        "expirydate": "30-07-2026",
+        "Allowoffline": true
+      },
 
 ]
