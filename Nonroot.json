@@ -1,69 +1,44 @@
 [
-    {
-        "device_id": "eae64a6eb8c390f5",
-        "key": "key12345",
-        "expirydate": "02-10-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "eae64a6eb8c390f5",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "488b2272a5dd4abf",
-        "key": "bibek123",
-        "expirydate": "23-07-2026",
-        "Allowoffline": true
-    },
-      {
-        "device_id": "ee18f372bb546c03",
-        "key": "bibek21",
-        "expirydate": "24-07-2026",
-        "Allowoffline": true
-      },
-    {
-        "device_id": "bf515f7798ecde2e",
-        "key": "roshan123",
-        "expirydate": "25-07-2026",
-        "Allowoffline": true
-      },
-    {
-        "device_id": "e7f9eeaf9e5391c6",
-        "key": "sanjay123",
-        "expirydate": "20-09-2026",
-        "Allowoffline": true
-      },
-       {
-        "device_id": "b5f14c257136410c",
-        "key": "fatta123",
-        "expirydate": "27-08-2026",
-        "Allowoffline": true
-      } ,
-    {
-        "device_id": "2bc481057aac5efb",
-        "key": "pratham123",
-        "expirydate": "25-07-2026",
-        "Allowoffline": true
-      } ,
-    {
-        "device_id": "98675d1066274040",
-        "key": "rajkumar123",
-        "expirydate": "31-07-2026",
-        "Allowoffline": true
-      } ,
-        {
-        "device_id": "f2ea7cac6f3c5955",
-        "key": "khem123",
-        "expirydate": "27-07-2026",
-        "Allowoffline": true
-      },
-    {
-        "device_id": "43e2957e074f254b",
-        "key": "sanju123",
-        "expirydate": "20-00-2026",
-        "Allowoffline": true
-      },
-
+  {
+    "Device Id": "PASTE-DEVICE-ID", 
+    "username": "PASTE-USERNAME",
+    "password": "PASTE-PASSWORD",
+    "expiry": "2025-10-15" // DATE FORMAT~ YYYY-MM-DD
+  },
+  {
+    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "abc",
+    "password": "101",
+    "expiry": "2026-09-29"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "def",
+    "password": "102",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "ghi",
+    "password": "103",
+    "expiry": "2026-01-01"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "jkl",
+    "password": "104",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "mno",
+    "password": "105",
+    "expiry": "2025-10-04"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "pqr",
+    "password": "106",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+  }
 ]
